@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 - [About Credit Risk Analysis](#about-credit-risk-analysis)
 - [Why credit risk is so relevant in finance?](#why-credit-risk-is-so-relevant-in-finance?)
 - [Primary Objective](#primary-objective)
