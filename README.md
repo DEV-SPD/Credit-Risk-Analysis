@@ -13,7 +13,7 @@ Lenders rely on the validation provided by credit risk analysis models to make k
 
 With the continuous evolution of technology, banks are continually researching and developing effective ways of modeling credit risk. 
 
-# Steps Of Credit Risk Analysis
+# Project Steps
 1. **Environment Setup**: Installing necessary libraries and loading the dataset.
 2. **Data Exploration**: Exploring dataset to discover data distribution, detect missing values in columns, detect outliers, detect class imbalance, statistical analysis was done & insights were also derived from plots like violin plot, count plot etc.
 3. **Data Preprocessing**: Removing null values, replacing outliers with extreme value either upper or lower limit with conditional check using np.where(), Textual features were converted into numerical features, fixing class imbalance issue using SMOTE, dropping irrelevant columns.
