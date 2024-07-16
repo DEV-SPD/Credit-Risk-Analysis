@@ -6,12 +6,12 @@ Credit risk analysis is the process of evaluating the potential risk that a borr
 
 # Why credit risk is so relevant in finance?
 Financial institutions used credit risk analysis models to determine the probability of default of a potential borrower. 
-
 The model provides information on the level of a borrower’s credit risk at any particular time. If the lender fails to detect the credit risk in advance, it exposes them to the risk of default and loss of funds. 
-
 Lenders rely on the validation provided by credit risk analysis models to make key lending decisions on whether or not to extend credit to the borrower and the credit to be charged.
-
 With the continuous evolution of technology, banks are continually researching and developing effective ways of modeling credit risk. 
+
+# Primary Objective
+The primary aim is to understand which are the factors that are effecting more the probability of having an high credit risk of a given company/organization, and build models capable to predict (given some features) the credit risk level.
 
 # Project Steps
 1. **Environment Setup**: Installing necessary libraries and loading the dataset.
