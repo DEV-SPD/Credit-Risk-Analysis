@@ -20,4 +20,5 @@ With the continuous evolution of technology, banks are continually researching a
 4. Feature Selection: Selected top 45 features based on mutual info score using selectkbest available in sklearn library.
 5. Feature Scaling: Dataset was splitted into train and test data & z-score normalization was done on both train and test data separately to prevent data leaks.
 6. Data Modelling: Best model was selected & Validated on test data.
+7. Documentation: Writing the README file and code documentation.
 
